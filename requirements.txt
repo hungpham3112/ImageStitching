@@ -1,0 +1,9 @@
+imutils
+numpy
+pandas
+Pillow
+opencv-python-headless
+streamlit
+streamlit-webrtc
+stitching
+tensorflow
