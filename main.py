@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 import imutils
 
-st.title("Image Processing App")
+st.title("Image Stitching App")
 
 # Add a sidebar
 sidebar = st.sidebar
